@@ -1,0 +1,17 @@
+D:\Repo\TramerQuery\TramerQuery.Service\bin\Debug\net6.0\TramerQuery.Service.deps.json
+D:\Repo\TramerQuery\TramerQuery.Service\bin\Debug\net6.0\TramerQuery.Service.dll
+D:\Repo\TramerQuery\TramerQuery.Service\bin\Debug\net6.0\TramerQuery.Service.pdb
+D:\Repo\TramerQuery\TramerQuery.Service\bin\Debug\net6.0\SharedKernel.dll
+D:\Repo\TramerQuery\TramerQuery.Service\bin\Debug\net6.0\TramerQuery.Data.dll
+D:\Repo\TramerQuery\TramerQuery.Service\bin\Debug\net6.0\SharedKernel.pdb
+D:\Repo\TramerQuery\TramerQuery.Service\bin\Debug\net6.0\TramerQuery.Data.pdb
+D:\Repo\TramerQuery\TramerQuery.Service\obj\Debug\net6.0\TramerQuery.Service.csproj.AssemblyReference.cache
+D:\Repo\TramerQuery\TramerQuery.Service\obj\Debug\net6.0\TramerQuery.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repo\TramerQuery\TramerQuery.Service\obj\Debug\net6.0\TramerQuery.Service.AssemblyInfoInputs.cache
+D:\Repo\TramerQuery\TramerQuery.Service\obj\Debug\net6.0\TramerQuery.Service.AssemblyInfo.cs
+D:\Repo\TramerQuery\TramerQuery.Service\obj\Debug\net6.0\TramerQuery.Service.csproj.CoreCompileInputs.cache
+D:\Repo\TramerQuery\TramerQuery.Service\obj\Debug\net6.0\TramerQuery.Service.csproj.CopyComplete
+D:\Repo\TramerQuery\TramerQuery.Service\obj\Debug\net6.0\TramerQuery.Service.dll
+D:\Repo\TramerQuery\TramerQuery.Service\obj\Debug\net6.0\refint\TramerQuery.Service.dll
+D:\Repo\TramerQuery\TramerQuery.Service\obj\Debug\net6.0\TramerQuery.Service.pdb
+D:\Repo\TramerQuery\TramerQuery.Service\obj\Debug\net6.0\ref\TramerQuery.Service.dll
